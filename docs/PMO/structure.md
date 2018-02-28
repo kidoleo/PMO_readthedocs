@@ -1,7 +1,7 @@
 # Line guide to create folder of documents for read the docs 
 ---
 ##### author : Leonardo Bellomi leonardobellomi@gmail.com
-##### verrsion : 1.0 2018-02-28
+##### version : 1.0 2018-02-28
 ---
 
 ## Strutturazione :
