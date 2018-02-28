@@ -10,7 +10,7 @@
     + Copiare il Payload URL da readthedocs in Amministrazione-->Integretion-->Add Integretion
 
 ### NB :
-  + Nella repository github sarà necessario avere una cartella docs ex :(PMO_docs)[https://github.com/kidoleo/PMO_readthedocs/new/master/docs/]
+  + Nella repository github sarà necessario avere una cartella docs ex :[PMO_docs](https://github.com/kidoleo/PMO_readthedocs/new/master/docs/)
   + Creare un index.md all' interno di docs con le informazioni principali che verranno mostrate in home
 
 
