@@ -6,7 +6,7 @@
 ### Utilizzo :
   + Creare un account sul sito [read the docs](http://google.it)
   
-  [alt text](login.png)
+  [alt text](https://github.com/kidoleo/PMO_readthedocs/blob/master/docs/PMO/login.PNG)
   
   + Creare o entrare sulla propria repository GitHub ex : [PMO_readthedocs](https://github.com/kidoleo/PMO_readthedocs)
   + Entrare in settings (nella repository), WebHooks aggiungere il webhooks e copiare il Payload URL
