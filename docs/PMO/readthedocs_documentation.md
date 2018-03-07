@@ -6,11 +6,16 @@
 ### Utilizzo :
   + Creare un account sul sito [read the docs](http://google.it)
   
-  [alt text](https://github.com/kidoleo/PMO_readthedocs/blob/master/docs/PMO/login.PNG)
+  [LOGIN IMAGE](https://github.com/kidoleo/PMO_readthedocs/blob/master/docs/PMO/login.PNG)
   
   + Creare o entrare sulla propria repository GitHub ex : [PMO_readthedocs](https://github.com/kidoleo/PMO_readthedocs)
   + Entrare in settings (nella repository), WebHooks aggiungere il webhooks e copiare il Payload URL
+  
+  [SETTINGS](https://github.com/kidoleo/PMO_readthedocs/blob/master/docs/PMO/settings.PNG)
+  
     + Copiare il Payload URL da readthedocs in Amministrazione-->Integretion-->Add Integretion
+    
+  [PAYLOAD](https://github.com/kidoleo/PMO_readthedocs/blob/master/docs/PMO/payload.PNG)
 
 ### NB :
   + Nella repository github sarà necessario avere una cartella docs ex :[PMO_docs](https://github.com/kidoleo/PMO_readthedocs/new/master/docs/)
