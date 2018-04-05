@@ -20,11 +20,11 @@
   + Creare o entrare in una propria repository su GitHub, ad esempio [PMO_readthedocs](https://github.com/kidoleo/PMO_readthedocs)
   + Andare alla voce settings (nella stessa repository) --> WebHooks e aggiungere il webhook copiando il Payload URL
   
-  [SETTINGS](https://github.com/kidoleo/PMO_readthedocs/blob/master/docs/PMO/settings.PNG)
+  [SETTINGS IMAGE](https://github.com/kidoleo/PMO_readthedocs/blob/master/docs/PMO/settings.PNG)
   
   + Copiare il Payload URL da readthedocs in Amministrazione-->Integretion-->Add Integretion
     
-  [PAYLOAD](https://github.com/kidoleo/PMO_readthedocs/blob/master/docs/PMO/payload.PNG)
+  [PAYLOAD IMAGE](https://github.com/kidoleo/PMO_readthedocs/blob/master/docs/PMO/payload.PNG)
 
 ### NB :
 
