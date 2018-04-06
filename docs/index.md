@@ -28,5 +28,7 @@ Creare uno spazio in cui sia facile reperire la documentazione generata dai grup
 ## Strumenti :
 
 GitHub
+
 ReadTheDocs
+
 Atom(o sw simile per creare file.md)
